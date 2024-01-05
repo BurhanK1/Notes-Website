@@ -1,0 +1,20 @@
+body.dark {
+    background-color: #121212;
+}
+
+body.purple {
+    background-color: #8e44ad;
+}
+
+body.blue {
+    background-color: #3498db;
+}
+body.white {
+    background-color: white;
+}
+#note {
+    border: 2px solid black;
+    
+}
+
+
